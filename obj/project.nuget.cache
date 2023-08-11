@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "s3dLmHBh7wuKcwG7xeTbgI8dQCb0YXVSLCJKOo7C0qjZoaBeRxXFvTem6pgio8r8IYasuLrz6ygdrrL7jw+gdA==",
+  "success": true,
+  "projectFilePath": "/Users/xeyptkka/work_with_me_free_wifi/test_postman/test_postman/test_postman.csproj",
+  "expectedPackageFiles": [
+    "/Users/xeyptkka/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/xeyptkka/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/xeyptkka/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/xeyptkka/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/xeyptkka/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/xeyptkka/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

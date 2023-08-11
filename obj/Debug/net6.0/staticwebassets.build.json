@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "hVO8eEzRGL2TaxTkKyf8QLxfZHh+R7oTvnpP36k3gwE=",
+  "Source": "test_postman",
+  "BasePath": "_content/test_postman",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
